@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 ## Reach me 
@@ -29,13 +30,15 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-ahsankhan26-blue?style=flat&logo=linkedin" /></a>
+        <img src="https://img.shields.io/badge/-ahsankhan26-blue?logo=linkedin" /></a>
     <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-ahsankhan26-3a424f?style=flat&logo=hackerrank" /></a>
+        <img src="https://img.shields.io/badge/-ahsankhan26-3a424f?logo=hackerrank" /></a>
     <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/ahsankhan26" alt="Instagram">
-        <img src="https://img.shields.io/badge/-ahsankhan26-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-ahsankhan26-E4405F?logo=instagram&logoColor=white" /></a>
+    <a href="https://instagram.com/ahsankhan26" alt="Instagram">
+        <img :earth_asia: src="https://img.shields.io/badge/-ahsankhan.me-lightgray?" /></a>
 </p>
 
 
