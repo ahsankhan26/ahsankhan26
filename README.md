@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Reach me 
 <!-- [![Github](https://img.shields.io/github/followers/ahsankhan26?label=Follow&style=social)][github] -->
-<div style="margin: auto;">
+<div style="padding-left: 500">
   
 [![Linkedin](https://img.shields.io/badge/-ahsankhan26-blue?style=flat&logo=linkedin&logoColor=white&link=[linkedin])][linkedin]
 [![Hackerrank](https://img.shields.io/badge/-ahsankhan26-3a424f?style=flat&logo=hackerrank&logoColor=2bbb61&link=[hackerrank])][hackerrank]
