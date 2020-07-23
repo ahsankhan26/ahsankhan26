@@ -36,8 +36,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/ahsankhan26" alt="Instagram">
         <img src="https://img.shields.io/badge/-ahsankhan26-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-    <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
 </p>
 
 
