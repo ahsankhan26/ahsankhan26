@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <p align="center">
-    <a href="https://linkedin.com/in/ahsankhan26" alt="Contributors">
+    <a href=[linkedin] alt="LinkedIn">
         <img src="https://img.shields.io/badge/-ahsankhan26-blue?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
