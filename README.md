@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+[![bg][banner]][website]
 <!--
 **ahsankhan26/ahsankhan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
+[website]: https://ahsankhan.me
