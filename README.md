@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/ahsankhan26" alt="Instagram">
         <img src="https://img.shields.io/badge/-ahsankhan26-E4405F?logo=instagram&logoColor=white" /></a>
     <a href="https://instagram.com/ahsankhan26" alt="Instagram">
-        <img src="https://img.shields.io/badge/-ahsankhan.me-lightgray?logo=discover&logoColor=White" /></a>
+        <img src="https://img.shields.io/badge/-ahsankhan.me-242424?logo=circle&logoColor=White" /></a>
 </p>
 
 
