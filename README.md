@@ -32,10 +32,10 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/-ahsankhan26-blue?style=flat&logo=linkedin" /></a>
     <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
         <img src="https://img.shields.io/badge/-ahsankhan26-3a424f?style=flat&logo=hackerrank" /></a>
-    <a href="#sponsors" alt="Sponsors on Open Collective">
-        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
-    <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+    <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://instagram.com/ahsankhan26" alt="Instagram">
+        <img src="https://img.shields.io/badge/-ahsankhan26-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
     <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
 </p>
