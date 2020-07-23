@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-ahsankhan26-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a href="#backers" alt="Backers on Open Collective">
-        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
+    <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-ahsankhan26-3a424f?style=flat&logo=hackerrank&logoColor=2bbb61" /></a>
     <a href="#sponsors" alt="Sponsors on Open Collective">
         <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
     <a href="https://github.com/badges/shields/pulse" alt="Activity">
