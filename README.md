@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="socialIcons"><img src="https://komarev.com/ghpvc/?username=ahsankhan26" alt="ahsankhan26" /></a>
+    <a href="#socialIcons"><img src="https://komarev.com/ghpvc/?username=ahsankhan26" alt="ahsankhan26" /></a>
 </p>
 
 [banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
