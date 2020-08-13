@@ -16,10 +16,6 @@
         <img src="https://img.shields.io/badge/-ahsankhan.me-242424?style=flat-square&logo=circle&logoColor=White" /></a>
 </p>
 
-<p align="center">
-    <a href="#socialIcons"><img src="https://komarev.com/ghpvc/?username=ahsankhan26" alt="ahsankhan26" /></a>
-</p>
-
 [banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
 [website]: https://ahsankhan.me
 [github]: https://github.com/ahsankhan26
