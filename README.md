@@ -13,7 +13,7 @@
     <a href="https://instagram.com/ahsankhan26" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://ahsankhan.me" alt="website">
-        <img src="https://img.shields.io/badge/-ahsankhan.me-242424?style=flat-square&logo=circle&logoColor=White" /></a>
+        <img src="https://img.shields.io/badge/-ahsankhan.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
 </p>
 
 [banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
