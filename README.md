@@ -1,7 +1,5 @@
 
 [![bg][banner]][website]
-    
-## Reach Me
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
@@ -12,9 +10,6 @@
     </a>
     <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
-    </a>
-    <a href="https://ahsankhan.me" alt="website">
-        <img src="https://img.shields.io/badge/-ahsankhan.me-242424?style=flat-square&logo=circle&logoColor=white" />
     </a>
 </p>
 
